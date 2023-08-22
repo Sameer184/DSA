@@ -1,0 +1,1010 @@
+[
+    {
+        "CountryName": "Abkhazia",
+        "MCC": "289"
+    },
+    {
+        "CountryName": "Afghanistan",
+        "MCC": "412"
+    },
+    {
+        "CountryName": "Albania",
+        "MCC": "276"
+    },
+    {
+        "CountryName": "Algeria",
+        "MCC": "603"
+    },
+    {
+        "CountryName": "American Samoa (United States of America)",
+        "MCC": "544"
+    },
+    {
+        "CountryName": "Andorra",
+        "MCC": "213"
+    },
+    {
+        "CountryName": "Angola",
+        "MCC": "631"
+    },
+    {
+        "CountryName": "Anguilla (United Kingdom)",
+        "MCC": "365"
+    },
+    {
+        "CountryName": "Antigua and Barbuda",
+        "MCC": "344"
+    },
+    {
+        "CountryName": "Argentina",
+        "MCC": "722"
+    },
+    {
+        "CountryName": "Armenia",
+        "MCC": "283"
+    },
+    {
+        "CountryName": "Aruba",
+        "MCC": "363"
+    },
+    {
+        "CountryName": "Australia",
+        "MCC": "505"
+    },
+    {
+        "CountryName": "Austria",
+        "MCC": "232"
+    },
+    {
+        "CountryName": "Azerbaijan",
+        "MCC": "400"
+    },
+    {
+        "CountryName": "Bahamas",
+        "MCC": "364"
+    },
+    {
+        "CountryName": "Bahrain",
+        "MCC": "426"
+    },
+    {
+        "CountryName": "Bangladesh",
+        "MCC": "470"
+    },
+    {
+        "CountryName": "Barbados",
+        "MCC": "342"
+    },
+    {
+        "CountryName": "Belarus",
+        "MCC": "257"
+    },
+    {
+        "CountryName": "Belgium",
+        "MCC": "206"
+    },
+    {
+        "CountryName": "Belize",
+        "MCC": "702"
+    },
+    {
+        "CountryName": "Benin",
+        "MCC": "616"
+    },
+    {
+        "CountryName": "Bermuda",
+        "MCC": "350"
+    },
+    {
+        "CountryName": "Bhutan",
+        "MCC": "402"
+    },
+    {
+        "CountryName": "Bolivia",
+        "MCC": "736"
+    },
+    {
+        "CountryName": "Bonaire, Sint Eustatius and Saba",
+        "MCC": "362"
+    },
+    {
+        "CountryName": "Bosnia and Herzegovina",
+        "MCC": "218"
+    },
+    {
+        "CountryName": "Botswana",
+        "MCC": "652"
+    },
+    {
+        "CountryName": "Brazil",
+        "MCC": "724"
+    },
+    {
+        "CountryName": "British Indian Ocean Territory (United Kingdom)",
+        "MCC": "995"
+    },
+    {
+        "CountryName": "British Virgin Islands (United Kingdom)",
+        "MCC": "348"
+    },
+    {
+        "CountryName": "Brunei",
+        "MCC": "528"
+    },
+    {
+        "CountryName": "Bulgaria",
+        "MCC": "284"
+    },
+    {
+        "CountryName": "Burkina Faso",
+        "MCC": "613"
+    },
+    {
+        "CountryName": "Burundi",
+        "MCC": "642"
+    },
+    {
+        "CountryName": "Cambodia",
+        "MCC": "456"
+    },
+    {
+        "CountryName": "Cameroon",
+        "MCC": "624"
+    },
+    {
+        "CountryName": "Canada",
+        "MCC": "302"
+    },
+    {
+        "CountryName": "Cape Verde",
+        "MCC": "625"
+    },
+    {
+        "CountryName": "Cayman Islands (United Kingdom)",
+        "MCC": "346"
+    },
+    {
+        "CountryName": "Central African Republic",
+        "MCC": "623"
+    },
+    {
+        "CountryName": "Chad",
+        "MCC": "622"
+    },
+    {
+        "CountryName": "Chile",
+        "MCC": "730"
+    },
+    {
+        "CountryName": "China",
+        "MCC": "460"
+    },
+    {
+        "CountryName": "China",
+        "MCC": "461"
+    },
+    {
+        "CountryName": "Colombia",
+        "MCC": "732"
+    },
+    {
+        "CountryName": "Comoros",
+        "MCC": "654"
+    },
+    {
+        "CountryName": "Congo",
+        "MCC": "629"
+    },
+    {
+        "CountryName": "Cook Islands (Pacific Ocean)",
+        "MCC": "548"
+    },
+    {
+        "CountryName": "Costa Rica",
+        "MCC": "712"
+    },
+    {
+        "CountryName": "Croatia",
+        "MCC": "219"
+    },
+    {
+        "CountryName": "Cuba",
+        "MCC": "368"
+    },
+    {
+        "CountryName": "Cura\u00e7ao",
+        "MCC": "362"
+    },
+    {
+        "CountryName": "Cyprus",
+        "MCC": "280"
+    },
+    {
+        "CountryName": "Czech Republic",
+        "MCC": "230"
+    },
+    {
+        "CountryName": "Democratic Republic of the Congo",
+        "MCC": "630"
+    },
+    {
+        "CountryName": "Denmark (Kingdom of Denmark)",
+        "MCC": "238"
+    },
+    {
+        "CountryName": "Djibouti",
+        "MCC": "638"
+    },
+    {
+        "CountryName": "Dominica",
+        "MCC": "366"
+    },
+    {
+        "CountryName": "Dominican Republic",
+        "MCC": "370"
+    },
+    {
+        "CountryName": "East Timor",
+        "MCC": "514"
+    },
+    {
+        "CountryName": "Ecuador",
+        "MCC": "740"
+    },
+    {
+        "CountryName": "Egypt",
+        "MCC": "602"
+    },
+    {
+        "CountryName": "El Salvador",
+        "MCC": "706"
+    },
+    {
+        "CountryName": "Equatorial Guinea",
+        "MCC": "627"
+    },
+    {
+        "CountryName": "Eritrea",
+        "MCC": "657"
+    },
+    {
+        "CountryName": "Estonia",
+        "MCC": "248"
+    },
+    {
+        "CountryName": "Ethiopia",
+        "MCC": "636"
+    },
+    {
+        "CountryName": "Falkland Islands (United Kingdom)",
+        "MCC": "750"
+    },
+    {
+        "CountryName": "Faroe Islands (Kingdom of Denmark)",
+        "MCC": "288"
+    },
+    {
+        "CountryName": "Fiji",
+        "MCC": "542"
+    },
+    {
+        "CountryName": "Finland",
+        "MCC": "244"
+    },
+    {
+        "CountryName": "France",
+        "MCC": "208"
+    },
+    {
+        "CountryName": "French Guiana (France)",
+        "MCC": "742"
+    },
+    {
+        "CountryName": "French Indian Ocean Territories (France)",
+        "MCC": "647"
+    },
+    {
+        "CountryName": "French Indian Ocean Territories (France)",
+        "MCC": "647"
+    },
+    {
+        "CountryName": "French Polynesia (France)",
+        "MCC": "547"
+    },
+    {
+        "CountryName": "Gabon",
+        "MCC": "628"
+    },
+    {
+        "CountryName": "Gambia",
+        "MCC": "607"
+    },
+    {
+        "CountryName": "Georgia",
+        "MCC": "282"
+    },
+    {
+        "CountryName": "Germany",
+        "MCC": "262"
+    },
+    {
+        "CountryName": "Ghana",
+        "MCC": "620"
+    },
+    {
+        "CountryName": "Gibraltar (United Kingdom)",
+        "MCC": "266"
+    },
+    {
+        "CountryName": "Greece",
+        "MCC": "202"
+    },
+    {
+        "CountryName": "Greenland (Kingdom of Denmark)",
+        "MCC": "290"
+    },
+    {
+        "CountryName": "Grenada",
+        "MCC": "352"
+    },
+    {
+        "CountryName": "Guadeloupe (France)",
+        "MCC": "340"
+    },
+    {
+        "CountryName": "Guam (United States of America)",
+        "MCC": "310"
+    },
+    {
+        "CountryName": "Guam (United States of America)",
+        "MCC": "311"
+    },
+    {
+        "CountryName": "Guatemala",
+        "MCC": "704"
+    },
+    {
+        "CountryName": "Guernsey (United Kingdom)",
+        "MCC": "234"
+    },
+    {
+        "CountryName": "Guinea",
+        "MCC": "611"
+    },
+    {
+        "CountryName": "Guinea-Bissau",
+        "MCC": "632"
+    },
+    {
+        "CountryName": "Guyana",
+        "MCC": "738"
+    },
+    {
+        "CountryName": "Haiti",
+        "MCC": "372"
+    },
+    {
+        "CountryName": "Honduras",
+        "MCC": "708"
+    },
+    {
+        "CountryName": "Hong Kong",
+        "MCC": "454"
+    },
+    {
+        "CountryName": "Hungary",
+        "MCC": "216"
+    },
+    {
+        "CountryName": "Iceland",
+        "MCC": "274"
+    },
+    {
+        "CountryName": "India",
+        "MCC": "404"
+    },
+    {
+        "CountryName": "India",
+        "MCC": "405"
+    },
+    {
+        "CountryName": "India",
+        "MCC": "406"
+    },
+    {
+        "CountryName": "Indonesia",
+        "MCC": "510"
+    },
+    {
+        "CountryName": "Iran",
+        "MCC": "432"
+    },
+    {
+        "CountryName": "Iraq",
+        "MCC": "418"
+    },
+    {
+        "CountryName": "Ireland",
+        "MCC": "272"
+    },
+    {
+        "CountryName": "Isle of Man (United Kingdom)",
+        "MCC": "234"
+    },
+    {
+        "CountryName": "Israel",
+        "MCC": "425"
+    },
+    {
+        "CountryName": "Italy",
+        "MCC": "222"
+    },
+    {
+        "CountryName": "Ivory Coast",
+        "MCC": "612"
+    },
+    {
+        "CountryName": "Jamaica",
+        "MCC": "338"
+    },
+    {
+        "CountryName": "Japan",
+        "MCC": "440"
+    },
+    {
+        "CountryName": "Japan",
+        "MCC": "441"
+    },
+    {
+        "CountryName": "Jersey (United Kingdom)",
+        "MCC": "234"
+    },
+    {
+        "CountryName": "Jordan",
+        "MCC": "416"
+    },
+    {
+        "CountryName": "Kazakhstan",
+        "MCC": "401"
+    },
+    {
+        "CountryName": "Kenya",
+        "MCC": "639"
+    },
+    {
+        "CountryName": "Kiribati",
+        "MCC": "545"
+    },
+    {
+        "CountryName": "Korea, North",
+        "MCC": "467"
+    },
+    {
+        "CountryName": "Korea, South",
+        "MCC": "450"
+    },
+    {
+        "CountryName": "Kosovo",
+        "MCC": "221"
+    },
+    {
+        "CountryName": "Kuwait",
+        "MCC": "419"
+    },
+    {
+        "CountryName": "Kyrgyzstan",
+        "MCC": "437"
+    },
+    {
+        "CountryName": "Laos",
+        "MCC": "457"
+    },
+    {
+        "CountryName": "Latvia",
+        "MCC": "247"
+    },
+    {
+        "CountryName": "Lebanon",
+        "MCC": "415"
+    },
+    {
+        "CountryName": "Lesotho",
+        "MCC": "651"
+    },
+    {
+        "CountryName": "Liberia",
+        "MCC": "618"
+    },
+    {
+        "CountryName": "Libya",
+        "MCC": "606"
+    },
+    {
+        "CountryName": "Liechtenstein",
+        "MCC": "295"
+    },
+    {
+        "CountryName": "Lithuania",
+        "MCC": "246"
+    },
+    {
+        "CountryName": "Luxembourg",
+        "MCC": "270"
+    },
+    {
+        "CountryName": "Macau",
+        "MCC": "455"
+    },
+    {
+        "CountryName": "North Macedonia",
+        "MCC": "294"
+    },
+    {
+        "CountryName": "Madagascar",
+        "MCC": "646"
+    },
+    {
+        "CountryName": "Malawi",
+        "MCC": "650"
+    },
+    {
+        "CountryName": "Malaysia",
+        "MCC": "502"
+    },
+    {
+        "CountryName": "Maldives",
+        "MCC": "472"
+    },
+    {
+        "CountryName": "Mali",
+        "MCC": "610"
+    },
+    {
+        "CountryName": "Malta",
+        "MCC": "278"
+    },
+    {
+        "CountryName": "Marshall Islands",
+        "MCC": "551"
+    },
+    {
+        "CountryName": "Martinique (France)",
+        "MCC": "340"
+    },
+    {
+        "CountryName": "Mauritania",
+        "MCC": "609"
+    },
+    {
+        "CountryName": "Mauritius",
+        "MCC": "617"
+    },
+    {
+        "CountryName": "Mexico",
+        "MCC": "334"
+    },
+    {
+        "CountryName": "Micronesia, Federated States of",
+        "MCC": "550"
+    },
+    {
+        "CountryName": "Moldova",
+        "MCC": "259"
+    },
+    {
+        "CountryName": "Monaco",
+        "MCC": "212"
+    },
+    {
+        "CountryName": "Mongolia",
+        "MCC": "428"
+    },
+    {
+        "CountryName": "Montenegro",
+        "MCC": "297"
+    },
+    {
+        "CountryName": "Montserrat (United Kingdom)",
+        "MCC": "354"
+    },
+    {
+        "CountryName": "Morocco",
+        "MCC": "604"
+    },
+    {
+        "CountryName": "Mozambique",
+        "MCC": "643"
+    },
+    {
+        "CountryName": "Myanmar",
+        "MCC": "414"
+    },
+    {
+        "CountryName": "Namibia",
+        "MCC": "649"
+    },
+    {
+        "CountryName": "Nauru",
+        "MCC": "536"
+    },
+    {
+        "CountryName": "Nepal",
+        "MCC": "429"
+    },
+    {
+        "CountryName": "Netherlands (Kingdom of the Netherlands)",
+        "MCC": "204"
+    },
+    {
+        "CountryName": "New Caledonia",
+        "MCC": "546"
+    },
+    {
+        "CountryName": "New Zealand",
+        "MCC": "530"
+    },
+    {
+        "CountryName": "Nicaragua",
+        "MCC": "710"
+    },
+    {
+        "CountryName": "Niger",
+        "MCC": "614"
+    },
+    {
+        "CountryName": "Nigeria",
+        "MCC": "621"
+    },
+    {
+        "CountryName": "Niue",
+        "MCC": "555"
+    },
+    {
+        "CountryName": "Norfolk Island",
+        "MCC": "505"
+    },
+    {
+        "CountryName": "Northern Mariana Islands (United States of America)",
+        "MCC": "310"
+    },
+    {
+        "CountryName": "Norway",
+        "MCC": "242"
+    },
+    {
+        "CountryName": "Oman",
+        "MCC": "422"
+    },
+    {
+        "CountryName": "Pakistan",
+        "MCC": "410"
+    },
+    {
+        "CountryName": "Palau",
+        "MCC": "552"
+    },
+    {
+        "CountryName": "Palestine",
+        "MCC": "425"
+    },
+    {
+        "CountryName": "Panama",
+        "MCC": "714"
+    },
+    {
+        "CountryName": "Papua New Guinea",
+        "MCC": "537"
+    },
+    {
+        "CountryName": "Paraguay",
+        "MCC": "744"
+    },
+    {
+        "CountryName": "Peru",
+        "MCC": "716"
+    },
+    {
+        "CountryName": "Philippines",
+        "MCC": "515"
+    },
+    {
+        "CountryName": "Poland",
+        "MCC": "260"
+    },
+    {
+        "CountryName": "Portugal",
+        "MCC": "268"
+    },
+    {
+        "CountryName": "Puerto Rico (United States of America)",
+        "MCC": "330"
+    },
+    {
+        "CountryName": "Qatar",
+        "MCC": "427"
+    },
+    {
+        "CountryName": "Romania",
+        "MCC": "226"
+    },
+    {
+        "CountryName": "Russian Federation",
+        "MCC": "250"
+    },
+    {
+        "CountryName": "Rwanda",
+        "MCC": "635"
+    },
+    {
+        "CountryName": "Saint Barth\u00e9lemy (France)",
+        "MCC": "340"
+    },
+    {
+        "CountryName": "Saint Helena, Ascension and Tristan da Cunha",
+        "MCC": "658"
+    },
+    {
+        "CountryName": "Saint Kitts and Nevis",
+        "MCC": "356"
+    },
+    {
+        "CountryName": "Saint Lucia",
+        "MCC": "358"
+    },
+    {
+        "CountryName": "Saint Martin (France)",
+        "MCC": "340"
+    },
+    {
+        "CountryName": "Saint Pierre and Miquelon",
+        "MCC": "308"
+    },
+    {
+        "CountryName": "Saint Vincent and the Grenadines",
+        "MCC": "360"
+    },
+    {
+        "CountryName": "Samoa",
+        "MCC": "549"
+    },
+    {
+        "CountryName": "San Marino",
+        "MCC": "292"
+    },
+    {
+        "CountryName": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "MCC": "626"
+    },
+    {
+        "CountryName": "Saudi Arabia",
+        "MCC": "420"
+    },
+    {
+        "CountryName": "Senegal",
+        "MCC": "608"
+    },
+    {
+        "CountryName": "Serbia",
+        "MCC": "220"
+    },
+    {
+        "CountryName": "Seychelles",
+        "MCC": "633"
+    },
+    {
+        "CountryName": "Sierra Leone",
+        "MCC": "619"
+    },
+    {
+        "CountryName": "Singapore",
+        "MCC": "525"
+    },
+    {
+        "CountryName": "Sint Maarten",
+        "MCC": "362"
+    },
+    {
+        "CountryName": "Slovakia",
+        "MCC": "231"
+    },
+    {
+        "CountryName": "Slovenia",
+        "MCC": "293"
+    },
+    {
+        "CountryName": "Solomon Islands",
+        "MCC": "540"
+    },
+    {
+        "CountryName": "Somalia",
+        "MCC": "637"
+    },
+    {
+        "CountryName": "South Africa",
+        "MCC": "655"
+    },
+    {
+        "CountryName": "South Sudan",
+        "MCC": "659"
+    },
+    {
+        "CountryName": "Spain",
+        "MCC": "214"
+    },
+    {
+        "CountryName": "Sri Lanka",
+        "MCC": "413"
+    },
+    {
+        "CountryName": "Sudan",
+        "MCC": "634"
+    },
+    {
+        "CountryName": "Suriname",
+        "MCC": "746"
+    },
+    {
+        "CountryName": "Swaziland",
+        "MCC": "653"
+    },
+    {
+        "CountryName": "Sweden",
+        "MCC": "240"
+    },
+    {
+        "CountryName": "Switzerland",
+        "MCC": "228"
+    },
+    {
+        "CountryName": "Syria",
+        "MCC": "417"
+    },
+    {
+        "CountryName": "Taiwan",
+        "MCC": "466"
+    },
+    {
+        "CountryName": "Tajikistan",
+        "MCC": "436"
+    },
+    {
+        "CountryName": "Tanzania",
+        "MCC": "640"
+    },
+    {
+        "CountryName": "Thailand",
+        "MCC": "520"
+    },
+    {
+        "CountryName": "Togo",
+        "MCC": "615"
+    },
+    {
+        "CountryName": "Tokelau",
+        "MCC": "554"
+    },
+    {
+        "CountryName": "Tonga",
+        "MCC": "539"
+    },
+    {
+        "CountryName": "Trinidad and Tobago",
+        "MCC": "374"
+    },
+    {
+        "CountryName": "Tunisia",
+        "MCC": "605"
+    },
+    {
+        "CountryName": "Turkey",
+        "MCC": "286"
+    },
+    {
+        "CountryName": "Turkmenistan",
+        "MCC": "438"
+    },
+    {
+        "CountryName": "Turks and Caicos Islands",
+        "MCC": "376"
+    },
+    {
+        "CountryName": "Tuvalu",
+        "MCC": "553"
+    },
+    {
+        "CountryName": "Uganda",
+        "MCC": "641"
+    },
+    {
+        "CountryName": "Ukraine",
+        "MCC": "255"
+    },
+    {
+        "CountryName": "United Arab Emirates",
+        "MCC": "424"
+    },
+    {
+        "CountryName": "United Arab Emirates (Abu Dhabi)",
+        "MCC": "430"
+    },
+    {
+        "CountryName": "United Arab Emirates (Dubai)",
+        "MCC": "431"
+    },
+    {
+        "CountryName": "United Kingdom",
+        "MCC": "234"
+    },
+    {
+        "CountryName": "United Kingdom",
+        "MCC": "235"
+    },
+    {
+        "CountryName": "United States of America",
+        "MCC": "310"
+    },
+    {
+        "CountryName": "United States of America",
+        "MCC": "311"
+    },
+    {
+        "CountryName": "United States of America",
+        "MCC": "312"
+    },
+    {
+        "CountryName": "United States of America",
+        "MCC": "313"
+    },
+    {
+        "CountryName": "United States of America",
+        "MCC": "314"
+    },
+    {
+        "CountryName": "United States of America",
+        "MCC": "315"
+    },
+    {
+        "CountryName": "United States of America",
+        "MCC": "316"
+    },
+    {
+        "CountryName": "United States Virgin Islands",
+        "MCC": "332"
+    },
+    {
+        "CountryName": "Uruguay",
+        "MCC": "748"
+    },
+    {
+        "CountryName": "Uzbekistan",
+        "MCC": "434"
+    },
+    {
+        "CountryName": "Vanuatu",
+        "MCC": "541"
+    },
+    {
+        "CountryName": "Venezuela",
+        "MCC": "734"
+    },
+    {
+        "CountryName": "Vietnam",
+        "MCC": "452"
+    },
+    {
+        "CountryName": "Wallis and Futuna",
+        "MCC": "543"
+    },
+    {
+        "CountryName": "Yemen",
+        "MCC": "421"
+    },
+    {
+        "CountryName": "Zambia",
+        "MCC": "645"
+    },
+    {
+        "CountryName": "Zimbabwe",
+        "MCC": "648"
+    }
+]
